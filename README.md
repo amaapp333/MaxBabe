@@ -1,5 +1,5 @@
-[(# MaxBabe.Ghost.io)]
-[https://amaapp333.github.io/MaxBabe.ghost.io.git]
+# MaxBabe.Ghost.io
+_https://amaapp333.github.io/MaxBabe.ghost.io.git_
 ``echo "# MaxBabe.ghost.io" >> README.md
 git init
 git add README.md
