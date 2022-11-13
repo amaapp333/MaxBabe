@@ -1,6 +1,9 @@
 # MaxBabe.Ghost.io
+
 _https://amaapp333.github.io/MaxBabe.ghost.io.git_
-``echo "# MaxBabe.ghost.io" >> README.md
+
+``
+echo "# MaxBabe.ghost.io" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
