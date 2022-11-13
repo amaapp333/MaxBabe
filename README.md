@@ -1,6 +1,6 @@
 # MaxBabe.Ghost.io
 
-_https://amaapp333.github.io/MaxBabe.ghost.io.git_
+_https://amaapp333.github.io/MaxBabe.ghost.io_
 
 ```bash
 echo "# MaxBabe.ghost.io" >> README.md
@@ -37,6 +37,16 @@ yarn create next-app --example amp-story amp-story-app
 ```bash
 pnpm create next-app --example amp-story amp-story-app
 ```
+
+```bash
+npx create-next-app --example github-pages nextjs-github-pages
+# or
+yarn create next-app --example github-pages nextjs-github-pages
+# or
+pnpm create next-app --example github-pages nextjs-github-pages
+```
+
+
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 
