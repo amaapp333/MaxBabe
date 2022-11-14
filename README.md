@@ -4,6 +4,10 @@
 
 _https://amaapp333.github.io/MaxBabe.ghost.io_
 
+## Download 
+
+_https://github.com/apps/maliek-galant_
+
 # Google Feature
 
 This example shows how to create an AMP page with `amp-story` using Next.js and the AMP feature.
@@ -27,19 +31,13 @@ yarn create next-app --example amp-story amp-story-app
 pnpm create next-app --example amp-story amp-story-app
 ```
 
-```bash
-npx create-next-app --example github-pages nextjs-github-pages
-# or
-yarn create next-app --example github-pages nextjs-github-pages
-# or
-pnpm create next-app --example github-pages nextjs-github-pages
-```
+
 
 
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+Deploy the example using [Download](https://github.com/apps/maliek-galant)
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/amp-story&project-name=amp-story&repository-name=amp-story)
 
