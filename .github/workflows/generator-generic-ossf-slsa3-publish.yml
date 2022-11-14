@@ -35,8 +35,8 @@ jobs:
       - name: Build artifacts
         run: |
             # These are some amazing artifacts.
-            echo "artifact28" > artifact28
-            echo "artifact27" > artifact27
+            echo "artifact1" > artifact1
+            echo "artifact2" > artifact2
 
       # ========================================================
       #
