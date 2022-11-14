@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-_https://amaapp333.github.io/MaxBabe.ghost.io_
+_https://amaapp333.github.io/MaxBabe_
 
 ## Download 
 
