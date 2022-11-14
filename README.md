@@ -1,4 +1,4 @@
-# MaxBabe.Ghost.io
+# MaxBabe App
 
 ## Live Demo
 
