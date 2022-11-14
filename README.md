@@ -29,7 +29,7 @@ Cast.
   <cast-media-player></cast-media-player>
 
   <footer>
-    <script src="js/receiver.js" type="module"></script>
+    <script src="mybigads.js" type="module"></script>
   </footer>
 </body>
 
